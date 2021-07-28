@@ -1,8 +1,5 @@
 ---
 layout: homepage.liquid
-title: Horsin' Around
+title: Hey Colombia
 ---
 
-# Welcome to Hollywoo
-
-Hello. I am BoJack. Horseman, obviously
